@@ -10,7 +10,8 @@
   "author": "ramazanyigit",
   "license": "ISC",
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "sites/*"
   ],
   "devDependencies": {
     "@types/node": "^18.11.13",
